@@ -105,6 +105,20 @@ header .headline{
 	color: #fff;
 	font-size: 11px;
 }
+.pagenation{
+	margin-top: 50px;
+	text-align: center;
+}
+.pagenation-text{
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	color: white;
+	background-color: #acabab;
+	border-radius: 3px;
+	margin: 0 5px;
+	line-height: 30px;
+}
 /*sideber*/
 .sidebar{
 	width: 230px;
